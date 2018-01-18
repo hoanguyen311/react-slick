@@ -18,7 +18,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/akiran/react-slick"
+    "url": "http://gitlab.alibaba-inc.com/lzdmod/react-slick"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
   },
   "keywords": [
     "slick",
