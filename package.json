@@ -14,7 +14,7 @@
     "test:watch": "jest --watch",
     "lint": "eslint src"
   },
-  "author": "Kiran Abburi",
+  "author": "Harry Nguyen",
   "license": "MIT",
   "repository": {
     "type": "git",
