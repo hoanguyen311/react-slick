@@ -1,5 +1,5 @@
 {
-  "name": "react-slick",
+  "name": "react-slick-fixed",
   "version": "0.16.0",
   "description": " React port of slick carousel",
   "main": "./lib",
@@ -18,10 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://gitlab.alibaba-inc.com/lzdmod/react-slick"
-  },
-  "publishConfig": {
-    "registry": "http://registry.npm.alibaba-inc.com"
+    "url": "https://github.com/hoanguyen311/react-slick"
   },
   "keywords": [
     "slick",
@@ -100,7 +97,7 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/akiran/react-slick/issues"
+    "url": "https://github.com/akiran/hoanguyen311/issues"
   },
-  "homepage": "https://github.com/akiran/react-slick"
+  "homepage": "https://github.com/hoanguyen311/react-slick"
 }
